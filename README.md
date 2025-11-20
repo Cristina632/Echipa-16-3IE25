@@ -4,3 +4,5 @@ Proiectul este realizat în limbajul de programare C#. Este o aplicație Windows
 
 Astfel, proiectul este o aplicație desktop dezvoltată în C# folosind tehnologia Windows Forms.
 Membrii echipei: Alexandru Pop, Emanuel Moisa, Cristina Moraru, Patricia Popeti.
+
+modificat de Emanue Moisa
