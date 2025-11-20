@@ -7,3 +7,4 @@ Membrii echipei: Alexandru Pop, Emanuel Moisa, Cristina Moraru, Patricia Popeti.
 
 modificat de Emanuel Moisa
 modificat Patricia Popeti
+modificat în VScode - Emanuel Moisa
