@@ -6,3 +6,4 @@ Astfel, proiectul este o aplicație desktop dezvoltată în C# folosind tehnolog
 Membrii echipei: Alexandru Pop, Emanuel Moisa, Cristina Moraru, Patricia Popeti.
 
 modificat de Emanuel Moisa
+modificat Patricia Popeti
