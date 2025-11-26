@@ -16,3 +16,5 @@ modificat  în VScode - Popeti Patricia
 =======
 modificat în VScode - Emanuel Moisa
 >>>>>>> 180b49130f688ea51a789d5e0d2cc46f05a1ca02
+
+modificat in VScode - Pop Alexandru
