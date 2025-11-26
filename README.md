@@ -44,11 +44,11 @@ Form2 (Gestiune): Se conectează la tabelele Iesiri și Produse pentru a permite
 
 Form3 (Statistici): Execută o interogare SQL care unește tabelele produse, intrari și iesiri pentru a genera graficul comparativ.
 
-Membrii echipei: Alexandru Pop, Emanuel Moisa, Cristina Moraru, Patricia Popeti.
+# Membrii echipei: Alexandru Pop, Emanuel Moisa, Cristina Moraru, Patricia Popeti.
 
 modificat de Emanuel Moisa
 modificat Patricia Popeti
-
+modificat Pop Alexandru
 
 # modificat în VScode - Moraru Cristina
 =======
